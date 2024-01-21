@@ -12,4 +12,4 @@ Valdez, Michael Ian [@iyeyn](https://github.com/iyeyn)<br>
 
 Nonong, Tricxy <br>
 Panaligan, Chastina <br>
-Santos, Steven <br>
+Santos, Steven [@VenSaints](https://github.com/VenSaints)<br>
