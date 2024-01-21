@@ -6,7 +6,7 @@
 
 Garcia, Boris [@yubanji](https://github.com/yubanji)<br>
 Gomez, Mc Kennedy [@devken0](https://github.com/devken0)<br>
-Valdez, Michael Ian [@iyeyn](https://github.com/iyeyn)<br><br>
+Valdez, Michael Ian [@iyeyn](https://github.com/iyeyn)<br>
 
 ### Designers
 
