@@ -11,5 +11,5 @@ Valdez, Michael Ian [@iyeyn](https://github.com/iyeyn)<br>
 ### Designers
 
 Nonong, Tricxy <br>
-Panaligan, Chastina <br>
+Panaligan, Chastina [@ChassyClassy](https://github.com/ChassyClassy)<br>
 Santos, Steven [@VenSaints](https://github.com/VenSaints)<br>
